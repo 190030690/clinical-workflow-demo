@@ -1,2 +1,2 @@
 # clinical-workflow-demo
-FastAPI , PostgreSQL and React demo for tracking tasks and handling concurrent updates
+FastAPI demo for creating and listing tasks in memory.
